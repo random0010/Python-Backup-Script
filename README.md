@@ -8,7 +8,7 @@ The backup system will create a folder in your destination folder.
 
 Example of backup folder created : `backup_09-03-2020_9h38m45s`
 
-In order to add new path to backup just add  `path(n+1)="yourpath" ` in config.ini
+In order to add new path to backup just add  `path(n+1)="yourpath"` in config.ini
 
 <img src="image/ini.PNG" width="600" />
 
